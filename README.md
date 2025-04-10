@@ -35,8 +35,10 @@ Place the file in the root folder of this project before running the app.
 
 2. **Install dependencies**
 
+   ```bash
    pip install -r requirements.txt
 
 3. **Run the recommender**
 
+   ```bash
    python main.py
